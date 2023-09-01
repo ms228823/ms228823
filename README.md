@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Mohammed Sameh
-- 👀 I’m interested in web developping & design (full-stack developper)
-- 🌱 I’m currently learning programming (studying business "main career")
+- 👀 I’m interested in web development & design (Front-end developer)
+- 🌱 I’m currently learning programming (studying MIS "main career")
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
