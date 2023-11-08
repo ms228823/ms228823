@@ -1,5 +1,4 @@
 - 👋 Hi, I’m  Mohammed Sameh
-- 👀 I’m interested in web development & design (Front-end developer)
+- 👀 I’m interested in web development & design (Full-stack developer)
 - 🌱 I’m currently learning programming (studying MIS "main career")
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me [Linked In](https://www.linkedin.com/in/mohammed-sameh-abd-elzahir/)
