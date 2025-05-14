@@ -1,4 +1,4 @@
 - 👋 Hi, I’m  Mohamed Sameh
 - 👀 I’m interested in web development & design (Full-stack developer)
 - 🌱 I’m currently learning programming (studying MIS "main career")
-- 📫 How to reach me [Linked In](https://www.linkedin.com/in/mohamed-sameh-abd-elzahir/)
+- 📫 How to reach me [Linked In](https://www.linkedin.com/in/mohamed-sameh-abdelzaher/)
